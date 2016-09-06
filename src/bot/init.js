@@ -39,6 +39,7 @@
         // If there are more than 10 tabs!
         if( tabs.length > 10 ) {
           // Do something erratic!
+          speak('we have all the ram in the world, don\'t we?');
         }
       })
     })
