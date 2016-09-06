@@ -10,6 +10,9 @@ var initters = {
   },
   "twitter.com": {
     script: "twitter.js"
+  },
+  "stackoverflow.com": {
+    script: "stackoverflow.js"
   }
 }
 
