@@ -4,7 +4,7 @@
   
   // Say something when you're turned on for the first time
   function init() {
-    speak("Hi ho, hi ho, its off to work I go!")
+    speak("You must have missed me, Anton, now I am back!")
     bindOtherFunctions();
     listenToMessages();
   }
